@@ -1,2 +1,2 @@
-# marcusng94.github.io
-Repo for my personal webpage
+
+Jekyll theme for my personal webpage. Adopted from "thephet" whom forked from "minimal mistake" 
