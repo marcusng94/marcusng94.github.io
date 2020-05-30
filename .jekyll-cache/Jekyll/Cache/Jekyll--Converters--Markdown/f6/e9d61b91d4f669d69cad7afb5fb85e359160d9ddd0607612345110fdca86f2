@@ -1,0 +1,18 @@
+I"Û<h2 id="background">Background</h2>
+<p>I was born and raised in Malaysia with multi-cultural background. I was a competitive swimmer throughout my teenage 
+years. I went to a boarding college to pursue my A-levels before university. Upon completion of my A-levels, I went to
+the University of Glasgow to study BSc in Biochemistry. Half way through my undergraduate degree, I grew interests in
+Chemistry</p>
+
+<h2 id="contacting-me">Contacting me</h2>
+<p>To contact me via email: <br />
+Personal enquiry: marcus94[at]gmail.com <br />
+Research enquiry: marcusng[at]chem.gla.ac.uk</p>
+
+<h2 id="acknowledgements">Acknowledgements</h2>
+<p>The layout and theme of this website is reproduced from <a href="https://github.com/thephet/thephet.github.io">Juanma</a>, I have altered for my need.</p>
+
+<h2 id="about-this-website">About this website</h2>
+<p>This website was done using <a href="https://jekyllrb.com/">Jekyll</a> and it is hosted on <a href="https://github.com/">Github</a>. In particular, I used the theme <a href="https://github.com/mmistakes/minimal-mistakes">Minimal Mistakes</a>. If you like how my website looks, you can check on my Github repository, but I highly recommend that you check the one from Minimal Mistakes directly.</p>
+
+:ET

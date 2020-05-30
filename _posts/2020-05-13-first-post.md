@@ -1,6 +1,6 @@
 ---
 title: "First website"
-excerpt: "I have finally gathered my courage to make a personal website"
+excerpt: "I have finally gathered my courage to make a personal website."
 ---
 Creating a website seemed like a daunting tasks especially for a person like myself without any background or any 
 "computer wizards" in my extended family. <br/>
