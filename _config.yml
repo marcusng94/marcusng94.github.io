@@ -25,7 +25,7 @@ url                      : "https://marcusng94.github.io" # the base hostname & 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "marcusng94/marcusng94.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.png"
+logo                     : "/assets/images/logo_bolt.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -92,7 +92,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/marcuschemobot"
+      url: "https://twitter.com/marcusng__"
 #    - label: "ORCID"
 #      icon: "fab fa-fw fa-orcid"
 #      url: "https://orcid.org/0000-0002-5301-7194"
@@ -114,7 +114,7 @@ footer:
 #      url: "https://orcid.org/0000-0002-5301-7194"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/magcusng94"
+      url: "https://github.com/marcusng94"
 
 
 # Reading Files
