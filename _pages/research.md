@@ -21,10 +21,3 @@ then couple robotics and machine-learning to work in a closed-loop manner to syn
 optimal properties for energy convertion/storage? 
 
 ## Current research
--
-
-## Research highlights
--
-
-## Background
--
