@@ -19,5 +19,3 @@ system that are susceptible to factors  such as pH, temperature, concentration, 
 rational design of molecule with desired properties may not be intuitive to human and/or may take a long time. Could we
 then couple robotics and machine-learning to work in a closed-loop manner to syntheise molecular metal oxides with 
 optimal properties for energy convertion/storage? 
-
-## Current research

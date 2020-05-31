@@ -10,7 +10,7 @@ Biochemistry. Half way through my undergraduate degree, I grew an interest in Ch
 Chemistry, which I took up the offer. During my placement year, I was fortunate enough to be in KCC, KAUST, Saudi 
 Arabia and I was given the opportunity to work on renewable energy technology, electrocatalysis for water-splitting in
 particular. After that I started a summer internship in UofG and worked on energy storage materials for my final year 
-Master's project. Upon graduation, I started my PhD in University of Glasgow.
+Master's project. Upon graduation, I started my PhD in University of Glasgow. (Click on CV for more information.)
 
 
 ## Contacting me
