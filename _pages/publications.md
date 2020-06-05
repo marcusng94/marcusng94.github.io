@@ -25,5 +25,7 @@ for a low carbon future, Discussion Meeting. (London, UK)  (2018)
 poster. (online) (2018)
 
 ## Features 
+
 1) "Splitting water for the cost of a nickel", <a href="https://discovery.kaust.edu.sa/en/article/370/splitting-water-for-the-cost-of-a-nickel?utm_content=bufferc9a3a&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer">KAUST Discovery</a>, (2017).
+<br/>
 2) "Electrolyte Engineering towards Efficient Water Splitting at Mild pH", <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cssc.201701995">Cover Profile</a>, ChemSusChem, (2017).
