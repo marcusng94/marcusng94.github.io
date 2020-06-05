@@ -18,4 +18,4 @@ thermal and chemical stability which is essential when it comes to energy storag
 system that are susceptible to factors  such as pH, temperature, concentration, compositions, etc. It becomes clear that 
 rational design of molecule with desired properties may not be intuitive to human and/or may take a long time. Could we
 then couple robotics and machine-learning to work in a closed-loop manner to syntheise molecular metal oxides with 
-optimal properties for energy convertion/storage? 
+optimal properties for energy conversion/storage? 
